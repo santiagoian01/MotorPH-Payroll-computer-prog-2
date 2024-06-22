@@ -1,4 +1,4 @@
-Group 8
+**GROUP 8**
 
 **Functionality:**
 - Polished User Interface: Enhances user experience with a visually appealing design.
